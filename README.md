@@ -1,3 +1,5 @@
 # bootcamperciyes_movieapp
 
-A new Flutter project.
+## Use main branch to get stable version
+
+You can reach latest updates in dev
